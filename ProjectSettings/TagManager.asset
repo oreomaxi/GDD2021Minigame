@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerBullet
+  - ExplodeSound
+  - ScoreText
+  - HealthText
+  - EndScreenScore
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background_back
+    uniqueID: 2526546929
+    locked: 0
+  - name: Background_front
+    uniqueID: 3836615667
+    locked: 0
+  - name: Bullet
+    uniqueID: 2259980955
+    locked: 0
+  - name: Enemy
+    uniqueID: 1949710109
+    locked: 0
+  - name: Player
+    uniqueID: 1329364567
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
